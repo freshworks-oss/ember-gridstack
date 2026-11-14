@@ -1,0 +1,21 @@
+index.js
+  s_a2615a13b5260b::t_9801349cdcf0bf 18-19
+package.json
+  s_a2615a13b5260b::t_6872bd275298ab 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4d7a8ebda8c4914003e9c1cbe5543dfcf268c8f0",
+  "prompts": {},
+  "sessions": {
+    "s_a2615a13b5260b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "543a6df5-ce84-426c-8899-a698a822fb7e",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "gg_fwinc <gopi.g@freshworks.com>"
+    }
+  }
+}
